@@ -1,3 +1,3 @@
-npm run test:html
+nu-html-checker *.html
 
 autoprefixer-cli style.prefixed.css style.css
